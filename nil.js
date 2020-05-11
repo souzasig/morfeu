@@ -1,4 +1,4 @@
- function pasuser(form) {
+function pasuser(form) {
 if (form.id.value=="sousa"||form.id.value=="reinaldo"||form.id.value=="rita"){ 
 if(form.pass.value=="123"){              
 
