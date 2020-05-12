@@ -1,9 +1,9 @@
- function pasuser(form) {
-if (form.id.value=="sousa"||form.id.value=="reinaldo"||form.id.value=="rita"){ 
-if(form.pass.value=="123"){              
+function pasuser(form) {
+if (form.id.value=="sousa"&&form.pass.value=="123"||form.id.value=="reinaldo"&&form.pass.value=="555"||form.id.value=="rita"&&form.pass.value=="999"){ 
+if(form.pass.value=="0"||"0"){              
 
 
-location="https://player.openload.network/qweowqie.php?4=JCrtL6SyNaltLhQTLqZpgzn74fni4ReGDhntNRdyXhPPL7OyLRP7DfQyLaXEDKvy4RpqgFdiXf8Tb9woL5ZTL6A=&3=JCrtL6SyNaltLhQTLqZpgzn74fni4ReGDhntNRdyXhPPL7OyLRP7DfQyLaXEDKvy4RpqgFdiXf8Tl98oL5ZTL6A=&2=JCrtL6SyNaltLhQTLqZpgzn74fni4ReGDhntNRdyXhPPL7OyLRP7DfQyLaXEDKvy4RpqgFdiXf8TbY3xbC3GDc3t&1=&subt=JCrtL6SyNR0GXCniDRnTJKAGDhntNRvP4RnG4KQ9No==" 
+location="https://player.openload.network/qweowqie.php?4=JCrtL6SyNRAvwzroJRXxJcnqLf2oNhl2Dani4zHyDzAGDhntNRdyXhPPL7OiDRP9JcHTwfO9XfdpJhO7DhQiwf4pDzrpLarEwR0T4CnqNYbRbC3GDc3t&3=JCrtL6SyNRAvwzroJRXxJcnqLf2oNhl2Dani4zHyDzAGDhntNRdyXhPPL7OiDRP9JcHTwfO9XfdpJhO7DhQiwf4pDzrpLarEwR0T4CnqNYL7bC3GDc3t&2=JCrtL6SyNRAvwzroJRXxJcnqLf2oNhl2Dani4zHyDzAGDhntNRdyXhPPL7OiDRP9JcHTwfO9XfdpJhO7DhQiwf4pDzrpLarEwR0T4CnqNY0oB6moNhdol3==&1=&subt=JCrtL6SyNR0GXCniDRnTJKAGDhntNRvP4RnG4KQ9No==" 
 } else {
 alert(" senha invalida")
 }
