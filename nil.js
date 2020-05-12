@@ -3,7 +3,7 @@ if (form.id.value=="sousa"&&form.pass.value=="123"||form.id.value=="reinaldo"&&f
 if(form.pass.value=="0"||"0"){              
 
 
-location="https://player.openload.network/qweowqie.php?4=JCrtL6SyNRAvwzroJRXxJcnqLf2oNhl2Dani4zHyDzAGDhntNRdyXhPPL7OiDRP9JcHTwfO9XfdpJhO7DhQiwf4pDzrpLarEwR0T4CnqNYbRbC3GDc3t&3=JCrtL6SyNRAvwzroJRXxJcnqLf2oNhl2Dani4zHyDzAGDhntNRdyXhPPL7OiDRP9JcHTwfO9XfdpJhO7DhQiwf4pDzrpLarEwR0T4CnqNYL7bC3GDc3t&2=JCrtL6SyNRAvwzroJRXxJcnqLf2oNhl2Dani4zHyDzAGDhntNRdyXhPPL7OiDRP9JcHTwfO9XfdpJhO7DhQiwf4pDzrpLarEwR0T4CnqNY0oB6moNhdol3==&1=&subt=JCrtL6SyNR0GXCniDRnTJKAGDhntNRvP4RnG4KQ9No==" 
+location="https://vidfast.co/embed-mkr8fhm4a3wp.html" 
 } else {
 alert(" senha invalida")
 }
