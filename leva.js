@@ -5,7 +5,7 @@ var  senha  =  prompt ( "Senha:" ,  "" ) ;
 // faça o mesmo da linha abaixo substituindo o usuário admim e senha 123
 // para adicionar mais usuários é usar o mesmo código e código de acesso e senha
 
-if ( login ! = "sousa"  ||  senha ! = "123" )
+if ( login ! = "sousa"  ||  senha ! = "444" )
 if ( login ! = "rita"  ||  senha ! = "321" )
 if ( login ! = "reinaldo"  ||  senha ! = "123" )
 if ( login ! = "arminda"  ||  senha ! = "321" )
