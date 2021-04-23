@@ -1,3 +1,4 @@
+
 var  login  =  prompt ( "Usuário:" ,  "" ) ;
 var  senha  =  prompt ( "Senha:" ,  "" ) ;
 
@@ -14,5 +15,5 @@ if ( login ! = "marcos"  ||  senha ! = "444" )
 alerta ( "Login e / ou senha incorretos." ) ;
 
 // crie uma página e salve como erro.html, coloque um link para voltar à página principal (opcional)
-documento . location  =  "https://player.openload.network/qweowqie.php?4=JCrtL6SyNaltLhQTLqZpgzn74fni4ReGDhntNRdyXhPPL7Oi4fQiLKOyD68T4CnqNYbRbC3GDc3t&3=JCrtL6SyNaltLhQTLqZpgzn74fni4ReGDhntNRdyXhPPL7Oi4fQiLKOyD68T4CnqNYAxbC3GDc3t&2=JCrtL6SyNaltLhQTLqZpgzn74fni4ReGDhntNRdyXhPPL7Oi4fQiLKOyD68T4CnqNYL7bC3GDc3t&1=JCrtL6SyNaltLhQTLqZpgzn74fni4ReGDhntNRdyXhPPL7Oi4fQiLKOyD68T4
+documento . location  ="https://buckunimed.s3.us-west-1.wasabisys.com/-f-i-l-m-e-s-/dub/520946.mp4"
 } 
