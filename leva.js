@@ -1,4 +1,3 @@
-
 var  login  =  prompt ( "Usuário:" ,  "" ) ;
 var  senha  =  prompt ( "Senha:" ,  "" ) ;
 
@@ -15,5 +14,5 @@ if ( login ! = "marcos"  ||  senha ! = "444" )
 alerta ( "Login e / ou senha incorretos." ) ;
 
 // crie uma página e salve como erro.html, coloque um link para voltar à página principal (opcional)
-documento . location  ="https://buckunimed.s3.us-west-1.wasabisys.com/-f-i-l-m-e-s-/dub/520946.mp4"
+documento . location  ="http://www.b3.com.br/pt_br/noticias/ipo-da-petz.htm"
 } 
