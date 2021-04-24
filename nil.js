@@ -3,8 +3,7 @@ if (form.id.value=="sousa"&&form.pass.value=="555"||form.id.value=="reinaldo"&&f
 if(form.pass.value=="0"||"0"){              
 
 
-location="https://vidfast.co/embed-mkr8fhm4a3wp.html" 
-} else {
+location="https://sites.google.com/view/rafaelinvestimento/in%C3%ADcio"
 alert(" senha invalida")
 }
 } else {  alert("seu nome não costa em nosso sistema")
