@@ -25,8 +25,9 @@ saldo carteira dia 23/04/2021  =
 na conta =0,079.93
 
 
-valor açao prio   92,07  *10   =
 
+valor açao prio   92,07  *10   =0.554.00
+                                                                            
 
 saldo carteira dia 26/04/2021  =
 
