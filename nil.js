@@ -4,7 +4,7 @@ if(form.pass.value=="0"||"0"){
 
 
 location="https://sites.google.com/view/rafaelinvestimento/in%C3%ADcio"
-alert(" senha invalida")
+alert(" Ola Rafa  bem vindo")
 }
 } else {  alert("seu nome não costa em nosso sistema")
 }
