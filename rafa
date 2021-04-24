@@ -1,1 +1,14 @@
 
+
+
+sudo dd if=/home/edivaldo/Downloads/arquivoiso.iso of=/dev/sdb bs=4M
+
+sudo dd if=/dev/zero of=/dev/sdb bs=1M
+
+error no configuration file found
+sudo apt-get update && sudo apt-get upgrade
+
+https://drive.google.com/file/d/1d_5JLQ40UViZnfGcmU_Cshy0fbeHxBSV/view?usp=sharing
+
+
+23793.38029 60653.551667 35006.333302 5 82410000005789  teclado reinaldo
