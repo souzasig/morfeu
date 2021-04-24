@@ -1,4 +1,6 @@
-   (----------minha carteira----------)
+
+               
+      (----------minha carteira----------)
 
 
      INICIO CARTEIRA 22/04/2021 =  1,000.00
@@ -43,3 +45,4 @@ na conta =0,079.93
 
 
 valor açao prio   92,07  *10   =
+
