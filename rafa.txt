@@ -1,47 +1,188 @@
-                     
-      (----------minha carteira----------)
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>
+Abiword HTML Document
+        </title>
+        <meta name="author" content="souzasig">
+        <style type="text/css">
+<!-- #toc,
+.toc,
+.mw-warning {
+	border: 1px solid #aaa;
+	background-color: #f9f9f9;
+	padding: 5px;
+	font-size: 95%;
+}
+#toc h2,
+.toc h2 {
+	display: inline;
+	border: none;
+	padding: 0;
+	font-size: 100%;
+	font-weight: bold;
+}
+#toc #toctitle,
+.toc #toctitle,
+#toc .toctitle,
+.toc .toctitle {
+	text-align: center;
+}
+#toc ul,
+.toc ul {
+	list-style-type: none;
+	list-style-image: none;
+	margin-left: 0;
+	padding-left: 0;
+	text-align: left;
+}
+#toc ul ul,
+.toc ul ul {
+	margin: 0 0 0 2em;
+}
+#toc .toctoggle,
+.toc .toctoggle {
+	font-size: 94%;
+}p, h1, h2, h3, li {
+	color:#000000;
+	font-family:'Times New Roman';
+	font-size:12pt;
+	text-align:left;
+	vertical-align:normal;
+}
+body{
+padding-top : 1.0000in;
+padding-bottom : 1.0000in;
+padding-left : 1.0000in;
+padding-right : 1.0000in;
+font-family:'Times New Roman';
+color:#000000;
+widows:2;
+font-style:normal;
+text-indent:0in;
+font-variant:normal;
+font-weight:normal;
+font-size:12pt;
+text-decoration:none;
+text-align:left;
+} -->
+        </style>
 
+    </head>
+<body>        <div>
+            <p>
+<span></span></p>
+            <p class="" style="text-align:left">
+<span> (----------</span><span style="font-size:20pt">minha carteira</span><span>----------)</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>INICIO CARTEIRA 22/04/2021 = &nbsp;1,000.00</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>dia da compra prio3 &nbsp;22/04/2021 valor 92.07 &nbsp;*10 &nbsp;= 0,920.07</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>//////////////////////////////////////////////////////////</span>
+            </p>
+            <p class="" style="text-align:left">
+<span></span></p>
+            <p class="" style="text-align:left">
+<span>saldo carteira dia 22/04/2021 &nbsp;=1,000.00</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>na conta =0,079.93</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>valor açao prio &nbsp;&nbsp;90,72 &nbsp;*10 &nbsp;&nbsp;=0,907.72=-0,012.35</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>saldo carteira dia 23/04/2021 &nbsp;=</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>na conta =0,079.93</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>valor açao prio &nbsp;&nbsp;92,07 &nbsp;*10 &nbsp;&nbsp;=</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>saldo carteira dia 26/04/2021 &nbsp;=</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>na conta =0,079.93</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>valor açao prio &nbsp;&nbsp;92,07 &nbsp;*10 &nbsp;&nbsp;=</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>saldo carteira dia 27/04/2021 &nbsp;=</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>na conta =0,079.93</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+<span>valor açao prio &nbsp;&nbsp;92,07 &nbsp;*10 &nbsp;&nbsp;=</span>
+            </p>
+            <p class="" style="text-align:left">
+</p>
+            <p class="" style="text-align:left">
+</p>
+</div>
+</body></html>
 
-     INICIO CARTEIRA 22/04/2021 =  1,000.00
-
-
-
-
-
-dia da compra prio3  22/04/2021 valor 92.07  *10  = 0,920.07
-
-
-
-//////////////////////////////////////////////////////////
-  
-saldo carteira dia 22/04/2021  =1,000.00
-
-na conta =0,079.93
-
-valor açao prio   90,72  *10   =0,907.72=-0,012.35
-
-saldo carteira dia 23/04/2021  =
-
-na conta =0,079.93
-
-
-
-valor açao prio   92,07  *10   =0.554.00
-                                                                            
-
-saldo carteira dia 26/04/2021  =
-
-na conta =0,079.93
-
-
-valor açao prio   92,07  *10   =
-
-
-saldo carteira dia 27/04/2021  =
-
-
-
-na conta =0,079.93
-
-
-valor açao prio   92,07  *10   =
