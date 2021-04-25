@@ -1,6 +1,5 @@
-
 function  pasuser ( form )  {
-if  ( form . id . value == "sousa" && form . pass . value == "555" || form . id . value == "reinaldo" && form . pass . value == "666" || form . id . value == "rita" && form . pass . value == "999" || form .id .valor == "bruna" && formulário . passe . valor == "2828" ) { 
+if  ( form . id . value == "tatinha" && form . pass . value == "7070" || form . id . value == "reinaldo" && form . pass . value == "666" || form . id . value == "rita" && form . pass . value == "999" || form .id .valor == "bruna" && formulário . passe . valor == "2828" ) { 
 if ( form . pass . value == "0" || "0" ) {              
 
 
